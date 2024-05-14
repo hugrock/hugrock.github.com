@@ -1,11 +1,11 @@
 {
-    "name": "hugrock", 
-    "short_name": "hugrock", 
-    "start_url": "/hug-rock", 
-    "display": "standalone", 
+    "name": "hugrock",
+    "short_name": "hugrock",
+    "start_url": "/",
+    "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
-    "icons": [ 
+    "icons": [
         {
             "src": "/favicon.svg",
             "type": "image/svg+xml",
